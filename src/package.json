@@ -63,7 +63,7 @@
   "dependencies": {
     "await-lock": "^2.0.1",
     "devalue": "^2.0.1",
-    "nativescript-couchbase-plugin": "^0.9.6"
+    "nativescript-couchbase-plugin": "^1.2.5"
   },
   "bootstrapper": "nativescript-plugin-seed"
 }
